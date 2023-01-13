@@ -8,6 +8,9 @@ public class Loops {
         for(String nombre: nombres){
             System.out.println(nombre);
         }
+
+
+
     }
 
 }
